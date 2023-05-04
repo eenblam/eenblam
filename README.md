@@ -2,7 +2,7 @@
 
 I'm Ben! I use he or they pronouns.
 
-I'm currently at the [Recurse Center](https://www.recurse.com) just having fun with programming, which you can read a bit about [on my blog](https://eenblam.github.io). Most recently, I spent a while working on infrastructure at [EFF](https://www.eff.org). I've previously worked with community networks, ISPs, live event networks, and more.
+I'm currently at the [Recurse Center](https://www.recurse.com) just having fun with programming, which you can read a bit about [on my blog](https://eenblam.github.io). Most recently, I worked on infrastructure at [EFF](https://www.eff.org). I've also worked with community networks, ISPs, live event networks, and more.
 
 Things I like:
 * Network programming and backend development in Go
