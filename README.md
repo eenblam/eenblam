@@ -9,7 +9,7 @@ Things I like:
     * Python and PostgreSQL are also cool ;)
 * Web scraping, data wrangling, and building tools to support journalism and digital research
 * Math - mostly recreationally, but I love when it fits into my work!
-* Challenge sets and CTFs - [Cryptopals](https://github.com/eenblam/cryptgopals), [Protohackers](https://github.com/eenblam/protohackers), [Hanukkah of Data](https://github.com/eenblam/hod), etc
+* Challenge sets and CTFs - [Protohackers](https://github.com/eenblam/protohackers), [Cryptopals](https://github.com/eenblam/cryptgopals), [Hanukkah of Data](https://github.com/eenblam/hod), etc
 * People! I'm passionate about how different folks learn and grow together, how to maintain happy and healthy teams, and things like that. People are cool.
 
 <!--
